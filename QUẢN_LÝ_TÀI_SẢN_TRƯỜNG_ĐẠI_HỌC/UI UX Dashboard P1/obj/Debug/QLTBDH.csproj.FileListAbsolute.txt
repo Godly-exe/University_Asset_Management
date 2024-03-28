@@ -1,0 +1,126 @@
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.AssemblyReference.cache
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.SuggestedBindingRedirects.cache
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.GenerateResource.cache
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.CoreCompileInputs.cache
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.CopyComplete
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+E:\Đồ Án CNPM\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.AssemblyReference.cache
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.SuggestedBindingRedirects.cache
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.GenerateResource.cache
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.CoreCompileInputs.cache
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\QLTBDH.csproj.CopyComplete
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+D:\Learning Online\Learning Online\Year 3 - HK1-B\CNPM\Đồ Án CNPM - Nhóm 8\Đồ Án CNPM - Nhóm 8\QUẢN LÝ THIẾT BỊ TRƯỜNG ĐẠI HỌC\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb

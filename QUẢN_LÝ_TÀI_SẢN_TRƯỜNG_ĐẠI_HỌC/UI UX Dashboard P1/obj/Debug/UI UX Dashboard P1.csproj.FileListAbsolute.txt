@@ -1,0 +1,49 @@
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csprojAssemblyReference.cache
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Form1.resources
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.GenerateResource.cache
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.CoreCompileInputs.cache
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+D:\Example\C#\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Form1.resources
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+C:\Users\Administrator\Desktop\Deisgn-Dashboard-master\Deisgn-Dashboard-master\Dashboard p1\p1\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Form1.resources
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+C:\Users\Administrator\Desktop\UI UX Dashboard P1\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.GenerateResource.cache
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.CoreCompileInputs.cache
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\bin\Debug\XanderUI.dll
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csproj.CopyComplete
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\bin\Debug\69024-bunifu_ui_v1.52.dll
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+C:\Users\start\Desktop\Quan Ly TS\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.csprojAssemblyReference.cache

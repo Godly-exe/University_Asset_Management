@@ -1,0 +1,355 @@
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ShockwaveFlashObjects.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\stdole.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.AssemblyReference.cache
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.SuggestedBindingRedirects.cache
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.GenerateResource.cache
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CoreCompileInputs.cache
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CopyComplete
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+E:\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ShockwaveFlashObjects.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\stdole.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.AssemblyReference.cache
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.SuggestedBindingRedirects.cache
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.GenerateResource.cache
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CoreCompileInputs.cache
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CopyComplete
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+E:\C#-boi\Quan Ly Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Drawing.v22.1.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.AssemblyReference.cache
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.SuggestedBindingRedirects.cache
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.GenerateResource.cache
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CoreCompileInputs.cache
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CopyComplete
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+E:\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.AssemblyReference.cache
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.SuggestedBindingRedirects.cache
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.GenerateResource.cache
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CoreCompileInputs.cache
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CopyComplete
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+E:\Đồ Án C#\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe.config
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.exe
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\UI UX Dashboard P1.pdb
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\SimpleDataGridViewPaging.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Data.v22.1.xml
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Xpo.v22.1.xml
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Xpo.v22.1.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.AssemblyReference.cache
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.SuggestedBindingRedirects.cache
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.fmMain.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmAbout.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmBaoHanh.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmChuyenPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDangKyTaiKhoan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachDatPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDanhSachTaiSan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDatPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmDoiPass.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmListUser.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLoadding.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmLogin.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaTaiSan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmSuaThongTinUser.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThanhLy.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThemTaiSan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmThongTinCaNhan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemChiTietTaiSan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.FormUI.fmXemPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.Properties.Resources.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDatPhong.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucDonViTinh.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucHome.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucLoaiTaiSan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhaCungCap.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucNhanVien.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucPhongBan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucSuaChuaBaoHanh.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucTaiSan.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI_UX_Dashboard_P1.ucThanhLy.resources
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.GenerateResource.cache
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CoreCompileInputs.cache
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\QLTS_Hutech.csproj.CopyComplete
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.exe
+E:\Đồ Án CNPM\Quản Lý Tài Sản Trường Hutech\UI UX Dashboard P1\obj\Debug\UI UX Dashboard P1.pdb
